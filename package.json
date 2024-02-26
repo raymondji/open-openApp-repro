@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "open": "^10.0.3",
+        "open-fixed": "github:raymondji/open#fix-openApp"
+    }
+}
